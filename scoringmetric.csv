@@ -1,0 +1,32 @@
+Crime ,Baseline Crime Score ,5:00-13:00: Frequency,13:00-20:00: Frequency,20:00-5:00: Frequency,Time Score (5:00-13:00),Time Score (13:00-20:00),Time Score (20:00-5:00),Final Score(5:00-13:00),Final Score(13:00-20:00),Final Score(20:00-5:00),,,,,,,\
+Missing Adult,8,16,9,10,7.5,6.5,6,6,7.5,6.5
+Missing Juvenile,8,2,2,2,7.5,6.5,6,6,6,6
+Identity Theft,8,42,40,38,7.5,6.5,6,6,6.5,7.5
+Fraud/forgery,8,56,34,36,7.5,6.5,6,6,7.5,6.5
+Vehicle Recovered,8,3,6,7,7.5,6.5,6,7.5,6.5,6
+Municipal Code,8,1,2,1,7.5,6.5,6,6.5,6,6.5
+Alcohol Offense,7,8,18,68,6.5,5.5,5,6.5,5.5,5
+Narcotics,7,22,54,54,6.5,5.5,5,6.5,5,5
+Disturbance (Noise),7,1,0,1,6.5,5.5,5,5,6.5,5
+Vandalism,7,70,108,115,6.5,5.5,5,6.5,5.5,5
+Vice (immoral/wicked behavior),6,0,1,1,5.5,4.5,4,5.5,4,4
+Disturbance,6,103,109,94,5.5,4.5,4,4.5,4,5.5
+Burglary Residential,5,52,64,68,4.5,3.5,3,4.5,3.5,3
+Burglary Auto,5,214,454,444,4.5,3.5,3,4.5,3,3.5
+Burglary Commercial,5,43,43,62,4.5,3.5,3,3.5,3.5,3
+Vehicle Stolen,5,57,101,108,4.5,3.5,3,4.5,3.5,3
+Theft from Auto,5,32,0,49,4.5,3.5,3,3.5,4.5,3
+Theft Misd. (under $950),5,272,332,196,4.5,3.5,3,3.5,3,4.5
+Theft felony (over $950),5,81,115,79,4.5,3.5,3,3.5,3,4.5
+Theft from Person,5,3,0,14,4.5,3.5,3,3.5,4.5,3
+Robbery,4,29,59,92,3.5,2.5,2,3.5,2.5,2
+Brandishing,4,11,10,7,3.5,2.5,2,2,2.5,3.5
+Gun/weapon,4,3,9,22,3.5,2.5,2,3.5,2.5,2
+Domestic Violence,4,46,59,55,3.5,2.5,2,3.5,2,2.5
+Arson,4,2,2,8,3.5,2.5,2,2.5,2.5,2
+Assault/battery misd.,3,66,84,51,2.5,1.5,1,1.5,1,2.5
+Assault/battery fel. ,3,21,22,30,2.5,1.5,1,2.5,1.5,1
+Kidnapping,3,3,0,2,2.5,1.5,1,1,2.5,1.5
+Sexual Assault Misd.,3,8,11,6,2.5,1.5,1,1.5,1,2.5
+Sexual Assault Fel.,3,14,4,27,2.5,1.5,1,1.5,2.5,1
+2nd Response,,0,0,8,0,0,0,0,0,0
