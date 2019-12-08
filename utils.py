@@ -24,6 +24,15 @@ def load_calls():
     calls = calls.drop(columns = ['eventdt', 'eventtm'])
     return calls
 
+
+def update_calls():
+    old_calls = pd.read_csv('latest_calls.csv')
+    new_calls = load_calls()
+    updated_frame = pd.concat([old_calls,new_calls]).drop_duplicates().reset_index(drop=True)
+    updated_frame = updated_frame.drop(columns = 'Unnamed: 0')
+    updated_frame.to_csv('latest_calls.csv', index = False)
+    return
+
 def load_stops():
     stops = pd.DataFrame.from_records(client.get('6e9j-pj9p', limit = 10000000))
     return stops
